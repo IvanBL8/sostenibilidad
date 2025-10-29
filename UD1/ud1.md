@@ -6,14 +6,6 @@
 
 <img src="img/mundo-sostenible_2.jpg" alt="Descripción" width="150" align="left">
 
-
-
-
-
-
-
-
-
-
+<br>
 
 ---
